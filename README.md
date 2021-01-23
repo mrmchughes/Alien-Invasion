@@ -26,13 +26,16 @@ Left arrow key
   
 To download the game
 
-Go to the search bar on your computer
-Open the command line by typing in cmd
-type the following:
-  
-  $ git clone https://github.com/mrmchughes/Alien-Invasion.git
- 
-To play the game
+On the page https://github.com/mrmchughes/Alien-Invasion, go to the green button labeled code.
+Click on the button, and download the ZIP folder.
+Save the folder whatever location is most convienient on your PC.
+Go to the location where you saved the downloaded folder, and hit the extract all button to extract all of the files.
+Once the files have been extracted properly, you are almost ready to play!
 
-cd Alien-Invasion
-python alien_invasion.py
+To play the game 
+
+There are two ways to play Alien Invasion.
+You can double click on the file alien_invasion. 
+You can also launch the game from the command line. 
+To do so, navigate via the command line into the directory containing the downloaded files.
+Once in the proper directory, type alien_invasion.py to launch the game, and start blasting some aliens!
