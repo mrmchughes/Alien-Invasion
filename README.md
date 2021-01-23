@@ -12,18 +12,23 @@ Python 3.9.1
 Pygame
 
 Controls 
-Space bar 
 
-  Fires bullets 
+Space bar 
+Fires bullets 
 
 Arrow keys 
+
 Left arrow key 
-  Moves ship continually to the left while held down
-  Stops moving the ship to the left once the left arrow key is released
- Right arrow key
-  Moves ship continually to the left while held down
-  Stops moving the ship to the right once the right arrow key is released
+Moves ship continually to the left while held down
+Stops moving the ship to the left once the left arrow key is released
   
+Right arrow key
+Moves ship continually to the left while held down
+Stops moving the ship to the right once the right arrow key is released
+  
+Q key
+Quits out of the game.
+
 To download the game
 
 On the page https://github.com/mrmchughes/Alien-Invasion, go to the green button labeled code.
