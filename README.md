@@ -29,7 +29,8 @@ To download the game
 Go to the search bar on your computer
 Open the command line by typing in cmd
 type the following:
-  git clone https://github.com/mrmchughes/Alien-Invasion
+  
+  $ git clone https://github.com/mrmchughes/Alien-Invasion.git
  
 To play the game
 
